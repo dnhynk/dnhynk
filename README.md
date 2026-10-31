@@ -1,2 +1,2 @@
 - Winner, KRAFTON AI R&D Autonomy Hackathon 2026 (solo, 1st of 108)
-- Winner, OpenAI x SNU AI Summer Camp Hackathon 2026 (team of 3, [Figma Font License Agent](https://github.com/jsko0313-glitch/LetsgoOpenAI))
+- Winner, OpenAI x SNU AI Summer Camp Hackathon 2026 (team of 4, [Figma Font License Agent](https://github.com/jsko0313-glitch/LetsgoOpenAI))
